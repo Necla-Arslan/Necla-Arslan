@@ -1,4 +1,4 @@
-[![MasterHead](https://www.linkedin.com/pulse/data-science-vs-analytics-manoj-kumar-bejawar-vioac)
+[![MasterHead](https://cdn1.expresscomputer.in/wp-content/uploads/2022/11/21123050/EC_Data_Science_Technology_750.jpg)
 
 <h1 align="center">Hi 👋, I'm Necla Arslan</h1>
 <h3 align="center">"A passionate data analyst and data scientist from Türkiye"</h3>
@@ -23,3 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=necla-arslan&show_icons=true&locale=en" alt="necla-arslan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=necla-arslan&" alt="necla-arslan" /></p>
+
